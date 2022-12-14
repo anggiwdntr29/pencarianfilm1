@@ -34,6 +34,11 @@ const baseImgUrl = process.env.REACT_APP_BASEIMGURL;
 }
 
 
+  useEffect(() => {
+    document.title = "Anggi Movie";
+  }, []);
+
+
   return (
     <div className="App">
       <header className="App-header">
