@@ -1,7 +1,7 @@
 {
   "name": "pencarianfilm",
   "version": "0.1.0",
-  "homepage": "https://github.com/anggiwdntr29/pencarianfilm1",
+  "homepage": "https://anggiwdntr29.github.io/pencarianfilm1/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
