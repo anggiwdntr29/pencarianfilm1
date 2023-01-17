@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pencarianfilm1/static/css/main.dcb112e4.css",
-    "main.js": "/pencarianfilm1/static/js/main.b81cc92d.js",
-    "static/js/787.2fe7f874.chunk.js": "/pencarianfilm1/static/js/787.2fe7f874.chunk.js",
-    "index.html": "/pencarianfilm1/index.html",
-    "main.dcb112e4.css.map": "/pencarianfilm1/static/css/main.dcb112e4.css.map",
-    "main.b81cc92d.js.map": "/pencarianfilm1/static/js/main.b81cc92d.js.map",
-    "787.2fe7f874.chunk.js.map": "/pencarianfilm1/static/js/787.2fe7f874.chunk.js.map"
+    "main.css": "/anggiwdntr29/pencarianfilm1/static/css/main.dcb112e4.css",
+    "main.js": "/anggiwdntr29/pencarianfilm1/static/js/main.3f3c0aff.js",
+    "static/js/787.2fe7f874.chunk.js": "/anggiwdntr29/pencarianfilm1/static/js/787.2fe7f874.chunk.js",
+    "index.html": "/anggiwdntr29/pencarianfilm1/index.html",
+    "main.dcb112e4.css.map": "/anggiwdntr29/pencarianfilm1/static/css/main.dcb112e4.css.map",
+    "main.3f3c0aff.js.map": "/anggiwdntr29/pencarianfilm1/static/js/main.3f3c0aff.js.map",
+    "787.2fe7f874.chunk.js.map": "/anggiwdntr29/pencarianfilm1/static/js/787.2fe7f874.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dcb112e4.css",
-    "static/js/main.b81cc92d.js"
+    "static/js/main.3f3c0aff.js"
   ]
 }
